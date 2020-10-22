@@ -19,13 +19,6 @@ A simple tool to aid administrators in their duties. The script simply prints an
  - Infinite commands
  - Client print for non-admins
 
-Download the resource [here](https://github.com/BackToBasicsStudios/chathelper).
-
-
-
-[details="Image of resource"]
-![image|630x233](upload://zxEPIyViLjk1PTarv5z1mTKAxZf.png)
-[/details]
 
 **Note:** This resource is not whitelisted as of yet so any player in the server can execute these commands. There will be a whitelisting feature adding in the next update of this resource.
  
