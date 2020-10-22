@@ -1,0 +1,10 @@
+
+discordMsg = "Our Discord Invite is: Discord.gg/PB3yG59"
+cadMsg = "Our CAD/MDT System Link is:[PLACEHOLDER]"
+webMsg = "Our website link is:[PLACEHOLDER]"
+teamSpeak = "Our TeamSpeak IP is:127.0.0.1"
+how2cop = "To become a police officer..."
+how2fire = "To become a fire officer..."
+how2ems = "To become apart of the EMS Team..."
+vehMsg = "[PLACEHOLDER]"
+how2play = "[PLACEHOLDER]"
